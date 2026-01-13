@@ -1,0 +1,22 @@
+[
+  {
+    "walletAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "tasks": {
+      "twitter": true,
+      "facebook": true,
+      "instagram": true,
+      "telegram": true,
+      "youtube": true
+    }
+  },
+  {
+    "walletAddress": "0x91945BC2Fd5553134Ac76CAD1B164a8E989B3394",
+    "tasks": {
+      "twitter": true,
+      "facebook": true,
+      "instagram": false,
+      "telegram": false,
+      "youtube": false
+    }
+  }
+]
